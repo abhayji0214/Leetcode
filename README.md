@@ -11,6 +11,7 @@
 | [0217-contains-duplicate](https://github.com/abhayji0214/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/abhayji0214/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -21,6 +22,7 @@
 | ------- | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0283-move-zeroes/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,6 +36,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0217-contains-duplicate](https://github.com/abhayji0214/Leetcode/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |

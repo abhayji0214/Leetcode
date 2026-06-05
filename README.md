@@ -26,6 +26,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abhayji0214/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/abhayji0214/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
@@ -61,4 +62,8 @@
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0566-reshape-the-matrix) |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/abhayji0214/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 <!---LeetCode Topics End-->

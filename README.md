@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/abhayji0214/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0031-next-permutation](https://github.com/abhayji0214/Leetcode/tree/master/0031-next-permutation) |
+| [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/abhayji0214/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhayji0214/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/abhayji0214/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -32,6 +33,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/abhayji0214/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayji0214/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/abhayji0214/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhayji0214/Leetcode/tree/master/0217-contains-duplicate) |
@@ -94,6 +96,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -157,6 +160,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/abhayji0214/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/abhayji0214/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/abhayji0214/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/abhayji0214/Leetcode/tree/main/0078-subsets/) | Medium |
@@ -187,5 +191,10 @@
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/abhayji0214/Leetcode/tree/main/0051-n-queens/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->

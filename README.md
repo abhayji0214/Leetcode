@@ -188,6 +188,7 @@
 | [0050-powx-n](https://github.com/abhayji0214/Leetcode/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhayji0214/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
+| [3783-mirror-distance-of-an-integer](https://github.com/abhayji0214/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |

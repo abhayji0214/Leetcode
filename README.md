@@ -231,6 +231,7 @@
 | [0141-linked-list-cycle](https://github.com/abhayji0214/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhayji0214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/abhayji0214/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |

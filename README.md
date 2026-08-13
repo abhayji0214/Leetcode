@@ -171,6 +171,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhayji0214/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/abhayji0214/Leetcode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/abhayji0214/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/abhayji0214/Leetcode/tree/main/0394-decode-string/) | Medium |
@@ -226,6 +227,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhayji0214/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abhayji0214/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhayji0214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/abhayji0214/Leetcode/tree/master/0206-reverse-linked-list) |

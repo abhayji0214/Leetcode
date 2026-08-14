@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhayji0214/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhayji0214/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/abhayji0214/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0189-rotate-array](https://github.com/abhayji0214/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhayji0214/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
@@ -64,6 +65,7 @@
 | [0125-valid-palindrome](https://github.com/abhayji0214/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abhayji0214/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhayji0214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/abhayji0214/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0283-move-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/abhayji0214/Leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0392-is-subsequence](https://github.com/abhayji0214/Leetcode/tree/master/0392-is-subsequence) |
@@ -199,6 +201,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/abhayji0214/Leetcode/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/abhayji0214/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhayji0214/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/abhayji0214/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |

@@ -33,6 +33,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/abhayji0214/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhayji0214/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayji0214/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhayji0214/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/abhayji0214/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
 |  |
@@ -214,6 +215,7 @@
 | ------- |
 | [0078-subsets](https://github.com/abhayji0214/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/abhayji0214/Leetcode/tree/master/0090-subsets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhayji0214/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Algorithm X
 |  |
 | ------- |

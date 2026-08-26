@@ -115,6 +115,7 @@
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/abhayji0214/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/abhayji0214/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhayji0214/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhayji0214/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Greedy
 |  |
@@ -158,6 +159,7 @@
 | [0459-repeated-substring-pattern](https://github.com/abhayji0214/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhayji0214/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/abhayji0214/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhayji0214/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhayji0214/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhayji0214/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhayji0214/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |

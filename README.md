@@ -25,6 +25,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/abhayji0214/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/abhayji0214/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/abhayji0214/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/abhayji0214/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0217-contains-duplicate](https://github.com/abhayji0214/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
@@ -91,6 +92,7 @@
 | [0053-maximum-subarray](https://github.com/abhayji0214/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhayji0214/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/abhayji0214/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/abhayji0214/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0392-is-subsequence](https://github.com/abhayji0214/Leetcode/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhayji0214/Leetcode/tree/main/0509-fibonacci-number/) | Easy |

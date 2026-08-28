@@ -62,6 +62,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhayji0214/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayji0214/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhayji0214/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayji0214/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhayji0214/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhayji0214/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhayji0214/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -120,6 +121,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/abhayji0214/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhayji0214/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhayji0214/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayji0214/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -165,6 +167,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhayji0214/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhayji0214/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhayji0214/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayji0214/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhayji0214/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 | Problem Name | Difficulty |

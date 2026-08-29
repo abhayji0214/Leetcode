@@ -2,8 +2,8 @@
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/abhayji0214/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/abhayji0214/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/abhayji0214/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
@@ -45,8 +45,8 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhayji0214/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhayji0214/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/abhayji0214/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayji0214/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/abhayji0214/Leetcode/tree/master/0036-valid-sudoku) |
@@ -69,8 +69,8 @@
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhayji0214/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhayji0214/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abhayji0214/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/abhayji0214/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
@@ -89,8 +89,8 @@
 | [0876-middle-of-the-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/abhayji0214/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/abhayji0214/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhayji0214/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,12 +101,12 @@
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhayji0214/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0053-maximum-subarray](https://github.com/abhayji0214/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/abhayji0214/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/abhayji0214/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhayji0214/Leetcode/tree/main/0242-valid-anagram/) | Easy |
@@ -117,8 +117,8 @@
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhayji0214/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/abhayji0214/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayji0214/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/abhayji0214/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
@@ -127,15 +127,15 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhayji0214/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayji0214/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/abhayji0214/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [2029-stone-game-ix](https://github.com/abhayji0214/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhayji0214/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhayji0214/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0036-valid-sudoku](https://github.com/abhayji0214/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0054-spiral-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0054-spiral-matrix) |
@@ -144,14 +144,15 @@
 | [0566-reshape-the-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/abhayji0214/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0657-robot-return-to-origin](https://github.com/abhayji0214/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhayji0214/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayji0214/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0014-longest-common-prefix](https://github.com/abhayji0214/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/abhayji0214/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
@@ -168,39 +169,40 @@
 | [0459-repeated-substring-pattern](https://github.com/abhayji0214/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/abhayji0214/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0567-permutation-in-string](https://github.com/abhayji0214/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [0657-robot-return-to-origin](https://github.com/abhayji0214/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/abhayji0214/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhayji0214/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhayji0214/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayji0214/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhayji0214/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/abhayji0214/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0383-ransom-note](https://github.com/abhayji0214/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [2029-stone-game-ix](https://github.com/abhayji0214/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhayji0214/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/abhayji0214/Leetcode/tree/master/0459-repeated-substring-pattern) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0234-palindrome-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/abhayji0214/Leetcode/tree/main/0394-decode-string/) | Medium |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/abhayji0214/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/abhayji0214/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/abhayji0214/Leetcode/tree/master/0050-powx-n) |
@@ -210,8 +212,8 @@
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhayji0214/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/abhayji0214/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/abhayji0214/Leetcode/tree/master/0039-combination-sum) |
@@ -221,17 +223,17 @@
 | [0079-word-search](https://github.com/abhayji0214/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0090-subsets-ii](https://github.com/abhayji0214/Leetcode/tree/master/0090-subsets-ii) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/abhayji0214/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Union-Find
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/abhayji0214/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhayji0214/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/abhayji0214/Leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/abhayji0214/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/abhayji0214/Leetcode/tree/main/0189-rotate-array/) | Medium |
@@ -242,33 +244,33 @@
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhayji0214/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3783-mirror-distance-of-an-integer](https://github.com/abhayji0214/Leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 ## Game Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
 | [2029-stone-game-ix](https://github.com/abhayji0214/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/abhayji0214/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/abhayji0214/Leetcode/tree/master/0090-subsets-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhayji0214/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Algorithm X
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/abhayji0214/Leetcode/tree/main/0051-n-queens/) | Hard |
 ## Dancing Links
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0079-word-search](https://github.com/abhayji0214/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/abhayji0214/Leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/abhayji0214/Leetcode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abhayji0214/Leetcode/tree/master/0141-linked-list-cycle) |
@@ -279,28 +281,28 @@
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/abhayji0214/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhayji0214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 ## Minimax
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2029-stone-game-ix](https://github.com/abhayji0214/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Nim Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2029-stone-game-ix](https://github.com/abhayji0214/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Zero-Sum Game
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2029-stone-game-ix](https://github.com/abhayji0214/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 ## Doubly-Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0430-flatten-a-multilevel-doubly-linked-list/) | Medium |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/abhayji0214/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->

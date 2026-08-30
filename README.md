@@ -36,6 +36,7 @@
 | [1470-shuffle-the-array](https://github.com/abhayji0214/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/abhayji0214/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2029-stone-game-ix](https://github.com/abhayji0214/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
+| [2540-minimum-common-value](https://github.com/abhayji0214/Leetcode/tree/master/2540-minimum-common-value) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhayji0214/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhayji0214/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayji0214/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -61,6 +62,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/abhayji0214/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
+| [2540-minimum-common-value](https://github.com/abhayji0214/Leetcode/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhayji0214/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayji0214/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhayji0214/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
@@ -88,6 +90,7 @@
 | [0567-permutation-in-string](https://github.com/abhayji0214/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [2540-minimum-common-value](https://github.com/abhayji0214/Leetcode/tree/master/2540-minimum-common-value) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -305,4 +308,8 @@
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/abhayji0214/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Binary Search
+|  |
+| ------- |
+| [2540-minimum-common-value](https://github.com/abhayji0214/Leetcode/tree/master/2540-minimum-common-value) |
 <!---LeetCode Topics End-->

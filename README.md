@@ -51,6 +51,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhayji0214/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayji0214/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/abhayji0214/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/abhayji0214/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -158,6 +159,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayji0214/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/abhayji0214/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhayji0214/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0022-generate-parentheses](https://github.com/abhayji0214/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
@@ -239,6 +241,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/abhayji0214/Leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/abhayji0214/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/abhayji0214/Leetcode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/abhayji0214/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |

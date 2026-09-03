@@ -36,6 +36,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/abhayji0214/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/abhayji0214/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhayji0214/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/abhayji0214/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2540-minimum-common-value](https://github.com/abhayji0214/Leetcode/tree/master/2540-minimum-common-value) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhayji0214/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |

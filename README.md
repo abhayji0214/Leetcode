@@ -248,6 +248,7 @@
 | [0002-add-two-numbers](https://github.com/abhayji0214/Leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/abhayji0214/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/abhayji0214/Leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/abhayji0214/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/abhayji0214/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0258-add-digits](https://github.com/abhayji0214/Leetcode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
@@ -323,6 +324,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/abhayji0214/Leetcode/tree/master/0069-sqrtx) |
 | [2540-minimum-common-value](https://github.com/abhayji0214/Leetcode/tree/master/2540-minimum-common-value) |
 ## Prefix Sum
 |  |
@@ -332,4 +334,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/abhayji0214/Leetcode/tree/master/0258-add-digits) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/abhayji0214/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

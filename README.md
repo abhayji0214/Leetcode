@@ -24,6 +24,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/abhayji0214/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/abhayji0214/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/abhayji0214/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayji0214/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhayji0214/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/abhayji0214/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/abhayji0214/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
@@ -88,6 +89,7 @@
 | [0125-valid-palindrome](https://github.com/abhayji0214/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0141-linked-list-cycle](https://github.com/abhayji0214/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/abhayji0214/Leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayji0214/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/abhayji0214/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -328,6 +330,7 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abhayji0214/Leetcode/tree/master/0069-sqrtx) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhayji0214/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/abhayji0214/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [2540-minimum-common-value](https://github.com/abhayji0214/Leetcode/tree/master/2540-minimum-common-value) |
 ## Prefix Sum

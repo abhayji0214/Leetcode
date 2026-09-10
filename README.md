@@ -9,6 +9,7 @@
 | [0014-longest-common-prefix](https://github.com/abhayji0214/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/abhayji0214/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/abhayji0214/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/abhayji0214/Leetcode/tree/master/0031-next-permutation) |
 | [0036-valid-sudoku](https://github.com/abhayji0214/Leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/abhayji0214/Leetcode/tree/main/0037-sudoku-solver/) | Hard |
@@ -84,6 +85,7 @@
 | [0011-container-with-most-water](https://github.com/abhayji0214/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/abhayji0214/Leetcode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0027-remove-element](https://github.com/abhayji0214/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0031-next-permutation](https://github.com/abhayji0214/Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/abhayji0214/Leetcode/tree/main/0125-valid-palindrome/) | Easy |

@@ -47,6 +47,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayji0214/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhayji0214/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhayji0214/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhayji0214/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/abhayji0214/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhayji0214/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhayji0214/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
@@ -77,6 +78,7 @@
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/abhayji0214/Leetcode/tree/main/3016-minimum-number-of-pushes-to-type-word-ii/) | Medium |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/abhayji0214/Leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/abhayji0214/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhayji0214/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/abhayji0214/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/abhayji0214/Leetcode/tree/main/3731-find-missing-elements/) | Easy |
 ## Two Pointers
@@ -227,6 +229,7 @@
 | [0394-decode-string](https://github.com/abhayji0214/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhayji0214/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhayji0214/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Backtracking
 |  |
 | ------- |
@@ -347,4 +350,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/abhayji0214/Leetcode/tree/master/0069-sqrtx) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/abhayji0214/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->

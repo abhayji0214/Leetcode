@@ -33,6 +33,7 @@
 | [0283-move-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhayji0214/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayji0214/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/abhayji0214/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0941-valid-mountain-array](https://github.com/abhayji0214/Leetcode/tree/main/0941-valid-mountain-array/) | Easy |
@@ -126,6 +127,7 @@
 | [0015-3sum](https://github.com/abhayji0214/Leetcode/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/abhayji0214/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/abhayji0214/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhayji0214/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/abhayji0214/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/abhayji0214/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -262,6 +264,7 @@
 | [0258-add-digits](https://github.com/abhayji0214/Leetcode/tree/master/0258-add-digits) |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/abhayji0214/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0628-maximum-product-of-three-numbers](https://github.com/abhayji0214/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [2029-stone-game-ix](https://github.com/abhayji0214/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/abhayji0214/Leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/abhayji0214/Leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |

@@ -36,6 +36,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/abhayji0214/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayji0214/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/abhayji0214/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0835-image-overlap](https://github.com/abhayji0214/Leetcode/tree/main/0835-image-overlap/) | Medium |
 | [0941-valid-mountain-array](https://github.com/abhayji0214/Leetcode/tree/main/0941-valid-mountain-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/abhayji0214/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
@@ -160,6 +161,7 @@
 | [0073-set-matrix-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0079-word-search](https://github.com/abhayji0214/Leetcode/tree/main/0079-word-search/) | Medium |
 | [0566-reshape-the-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0835-image-overlap](https://github.com/abhayji0214/Leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/abhayji0214/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |

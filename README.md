@@ -177,6 +177,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/abhayji0214/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/abhayji0214/Leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/abhayji0214/Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/abhayji0214/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/abhayji0214/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0079-word-search](https://github.com/abhayji0214/Leetcode/tree/main/0079-word-search/) | Medium |
@@ -220,6 +221,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/abhayji0214/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/abhayji0214/Leetcode/tree/main/0394-decode-string/) | Medium |
 ## Recursion
@@ -359,4 +361,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/abhayji0214/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/abhayji0214/Leetcode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->

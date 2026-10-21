@@ -224,6 +224,7 @@
 | [0020-valid-parentheses](https://github.com/abhayji0214/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/abhayji0214/Leetcode/tree/main/0394-decode-string/) | Medium |
+| [0901-online-stock-span](https://github.com/abhayji0214/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,4 +366,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abhayji0214/Leetcode/tree/master/0020-valid-parentheses) |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/abhayji0214/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/abhayji0214/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/abhayji0214/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->

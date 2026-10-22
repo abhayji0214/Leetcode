@@ -41,6 +41,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/abhayji0214/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/abhayji0214/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/abhayji0214/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abhayji0214/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/abhayji0214/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2029-stone-game-ix](https://github.com/abhayji0214/Leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2540-minimum-common-value](https://github.com/abhayji0214/Leetcode/tree/master/2540-minimum-common-value) |
@@ -170,6 +171,7 @@
 | [0258-add-digits](https://github.com/abhayji0214/Leetcode/tree/master/0258-add-digits) |
 | [0566-reshape-the-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0657-robot-return-to-origin](https://github.com/abhayji0214/Leetcode/tree/master/0657-robot-return-to-origin) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abhayji0214/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/abhayji0214/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## String
 | Problem Name | Difficulty |
@@ -206,6 +208,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abhayji0214/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -225,6 +228,7 @@
 | [0234-palindrome-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/abhayji0214/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0901-online-stock-span](https://github.com/abhayji0214/Leetcode/tree/main/0901-online-stock-span/) | Medium |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/abhayji0214/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |

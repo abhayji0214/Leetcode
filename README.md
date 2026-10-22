@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/abhayji0214/Leetcode/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/abhayji0214/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0486-predict-the-winner](https://github.com/abhayji0214/Leetcode/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/abhayji0214/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0566-reshape-the-matrix](https://github.com/abhayji0214/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/abhayji0214/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/abhayji0214/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -75,6 +76,7 @@
 | [0383-ransom-note](https://github.com/abhayji0214/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/abhayji0214/Leetcode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/abhayji0214/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/abhayji0214/Leetcode/tree/main/0567-permutation-in-string/) | Medium |
 | [2540-minimum-common-value](https://github.com/abhayji0214/Leetcode/tree/master/2540-minimum-common-value) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/abhayji0214/Leetcode/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
@@ -229,6 +231,7 @@
 | [0020-valid-parentheses](https://github.com/abhayji0214/Leetcode/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/abhayji0214/Leetcode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0394-decode-string](https://github.com/abhayji0214/Leetcode/tree/main/0394-decode-string/) | Medium |
+| [0496-next-greater-element-i](https://github.com/abhayji0214/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/abhayji0214/Leetcode/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/abhayji0214/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/abhayji0214/Leetcode/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
@@ -380,6 +383,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/abhayji0214/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0901-online-stock-span](https://github.com/abhayji0214/Leetcode/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 |  |

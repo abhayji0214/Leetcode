@@ -2,15 +2,15 @@
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
-        stack<int> st;
-        for (int i = 0; i < asteroids.size(); i++) {
+        vector<int> st;
+        for (int a : asteroids) {
             bool alive = true;
-            while (!st.empty() && st.top() > 0 && asteroids[i] < 0) {
-                if (st.top() < -asteroids[i]) {
-                    st.pop();
+            while (!st.empty() && st.back() > 0 && a < 0) {
+                if (st.back() < -a) {
+                    st.pop_back();
                 }
-                else if (st.top() == -asteroids[i]) {
-                    st.pop();
+                else if (st.back() == -a) {
+                    st.pop_back();
                     alive = false;
                     break;
                 }
@@ -20,14 +20,10 @@ public:
                 }
             }
             if (alive) {
-                st.push(asteroids[i]);
+                st.push_back(a);
             }
         }
-        vector<int> ans(st.size());
-        for (int i = st.size() - 1; i >= 0; i--) {
-            ans[i] = st.top();
-            st.pop();
-        }
-        return ans;
+
+        return st;
     }
 };

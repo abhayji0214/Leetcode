@@ -376,6 +376,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhayji0214/Leetcode/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/abhayji0214/Leetcode/tree/master/0022-generate-parentheses) |
 ## Design
 |  |
 | ------- |
